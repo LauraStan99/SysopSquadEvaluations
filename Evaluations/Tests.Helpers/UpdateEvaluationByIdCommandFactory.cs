@@ -17,6 +17,16 @@ namespace Tests.Helpers
                 ConsultantId = "607efc4963711f901124c912"
             };
         }
+        public static UpdateEvaluationByIdCommand ValidUpdateEvaluationByIdCommand(string id)
+        {
+            return new()
+            {
+                Id = id,
+                Scor = 3, 
+                UserId = "608333233b69f6fd370f0bda",
+                ConsultantId = "607efc4963711f901124c912"
+            };
+        }
 
         public static UpdateEvaluationByIdCommand UpdateEvaluationCommandWithoutId() =>
             new()

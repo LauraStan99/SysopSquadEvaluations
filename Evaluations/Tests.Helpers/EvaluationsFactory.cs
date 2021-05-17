@@ -35,7 +35,10 @@ namespace Tests.Helpers
             return new Evaluation
             {
                 Id = id,
-                Scor = 4           
+                Scor = 4,
+                UserId = "608333233b69f6fd370f0bda",
+                ConsultantId = "607efc4963711f901124c912"
+
             };
         }
     }

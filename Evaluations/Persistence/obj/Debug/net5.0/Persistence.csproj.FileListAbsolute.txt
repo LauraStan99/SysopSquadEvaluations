@@ -1,0 +1,17 @@
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Application.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Domain.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Application.pdb
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.pdb

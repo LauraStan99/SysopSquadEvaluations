@@ -1,0 +1,9 @@
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Domain\obj\Debug\netstandard2.1\Domain.pdb

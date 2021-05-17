@@ -1,0 +1,17 @@
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\bin\Debug\net5.0\Tests.Helpers.deps.json
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\bin\Debug\net5.0\Tests.Helpers.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\bin\Debug\net5.0\ref\Tests.Helpers.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\bin\Debug\net5.0\Tests.Helpers.pdb
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\bin\Debug\net5.0\Application.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\bin\Debug\net5.0\Domain.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\bin\Debug\net5.0\Application.pdb
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\bin\Debug\net5.0\Domain.pdb
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\Tests.Helpers.csprojAssemblyReference.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\Tests.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\Tests.Helpers.AssemblyInfoInputs.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\Tests.Helpers.AssemblyInfo.cs
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\Tests.Helpers.csproj.CoreCompileInputs.cache
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\Tests.Helpers.csproj.CopyComplete
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\Tests.Helpers.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\ref\Tests.Helpers.dll
+D:\TSP.NET\SysopSquadEvaluations\Evaluations\Tests.Helpers\obj\Debug\net5.0\Tests.Helpers.pdb

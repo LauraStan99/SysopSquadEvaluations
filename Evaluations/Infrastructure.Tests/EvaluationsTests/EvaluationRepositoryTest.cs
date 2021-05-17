@@ -10,6 +10,7 @@ using Xunit;
 
 namespace Infrastructure.Tests.EvaluationsTests
 {
+    [Collection("Database collection")]
     public class EvaluationRepositoryTest : IClassFixture<DatabaseTest>
     {
         private readonly IEvaluationRepository _repository;
@@ -57,6 +58,15 @@ namespace Infrastructure.Tests.EvaluationsTests
             result.Scor.Should().Be(5);
             result.Should().NotBeNull();
         }
+        [Fact]
+        public async Task GivenAnInexistentId_WhenGetByIdAsync_ThenReturnNull()
+        {
+            var evaluation = EvaluationsFactory.ValidEvaluation();
+
+            var result = await _repository.GetByIdAsync(evaluation.Id);
+
+            result.Should().BeNull();
+        }
 
         [Fact]
         public async Task GivenAnId_WhenDeleteAsync_ThenReturnTrue()
@@ -67,5 +77,28 @@ namespace Infrastructure.Tests.EvaluationsTests
 
             result.Should().BeTrue();
         }
+        [Fact]
+        public async Task GivenAnInexistentId_WhenDeleteAsync_ThenReturnFalse()
+        {
+            var evaluation = EvaluationsFactory.ValidEvaluation();
+
+            var result = await _repository.DeleteAsync(evaluation.Id);
+
+            result.Should().BeFalse();
+        }
+
+        [Fact]
+        public async Task GivenAEvaluation_WhenUpdateEvaluation_ThenReturnEvaluationUpdated()
+        {
+            var evaluation = EvaluationsFactory.AddedEvaluation(_database.DbContext);
+            var updatedEvaluation = EvaluationsFactory.UpdateScorValidEvaluation(evaluation.Id);
+
+            var result = await _repository.UpdateAsync(updatedEvaluation);
+
+            result.Should().BeOfType<Evaluation>();
+            result.Scor.Should().Be(updatedEvaluation.Scor);
+           
+        }
+
     }
 }
