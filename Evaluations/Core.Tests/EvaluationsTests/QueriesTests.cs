@@ -51,21 +51,5 @@ namespace Core.Tests.EvaluationsTests
             result.ConsultantId.Should().Be(evaluation.ConsultantId);
         }
 
-        [Fact]
-        public async Task GivenAnIdConsultant_WhenGetAverageScorByIdConsultantQueryHandler_ThenReturnNotNull()
-        {
-            var evaluation1 = EvaluationsFactory.ValidEvaluation();
-            var evaluation2 = EvaluationsFactory.ValidEvaluation();
-            var evaluations = new List<Evaluation> { evaluation1, evaluation2 };
-            var command = new GetAverageScorByIdConsultantQuery(evaluation1.ConsultantId);
-            var mockRepo = new Mock<IEvaluationRepository>();
-            mockRepo.Setup(db => db.GetAllAsync().Result).Returns(evaluations);
-            var handler = new GetAverageScorByIdConsultantQueryHandler(mockRepo.Object);
-
-            var result = await handler.Handle(command, CancellationToken.None);
-
-            result.Should().NotBe(0);
-          
-        }
     }
 }
