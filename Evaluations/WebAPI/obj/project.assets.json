@@ -1301,30 +1301,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\a\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TSP.NET\\SysopSquadEvaluations\\Evaluations\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\TSP.NET\\SysopSquadEvaluations\\Evaluations\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\TSP.NET\\SysopSquadEvaluations\\Evaluations\\WebAPI\\obj\\",
+      "projectPath": "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+      "outputPath": "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1337,8 +1327,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\TSP.NET\\SysopSquadEvaluations\\Evaluations\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\TSP.NET\\SysopSquadEvaluations\\Evaluations\\Persistence\\Persistence.csproj"
+            "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -1388,7 +1378,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
       }
     }
   }
