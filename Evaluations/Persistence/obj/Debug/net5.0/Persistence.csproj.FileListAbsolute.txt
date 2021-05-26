@@ -23,7 +23,6 @@ C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Applicatio
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Domain.dll
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Application.pdb
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Domain.pdb
-C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
@@ -32,3 +31,4 @@ C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistenc
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache

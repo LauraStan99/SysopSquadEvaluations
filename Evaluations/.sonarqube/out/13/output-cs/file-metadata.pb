@@ -1,0 +1,11 @@
+Y
+PC:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\Controllers\BaseApiController.csutf-8`
+WC:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\Controllers\v1\EvaluationsController.csutf-8C
+:C:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\Program.csutf-8C
+:C:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\Startup.csutf-8g
+^C:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\Validators\CreateEvaluationCommandValidator.csutf-8g
+^C:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\Validators\UpdateEvaluationCommandValidator.csutf-8b
+WC:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\Validators\ValidationErrors.Designer.csutf-8z
+oC:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8b
+WC:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.csutf-8u
+jC:\Fac\SysopSquadEvaluations\Evaluations\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.csutf-8

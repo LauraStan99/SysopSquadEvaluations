@@ -15,7 +15,6 @@ C:\Fac\SysopSquadEvaluations\Evaluations\Application\bin\Debug\netstandard2.1\Ap
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\bin\Debug\netstandard2.1\Application.pdb
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\bin\Debug\netstandard2.1\Domain.dll
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\bin\Debug\netstandard2.1\Domain.pdb
-C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
@@ -23,3 +22,4 @@ C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Ap
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Application.dll
 C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Application.pdb
+C:\Fac\SysopSquadEvaluations\Evaluations\Application\obj\Debug\netstandard2.1\Application.csproj.AssemblyReference.cache

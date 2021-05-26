@@ -1,0 +1,9 @@
+q
+hC:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\ControllerTests\EvaluationControllerTests.csutf-8b
+YC:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\Helpers\ConnectionDatabase.csutf-8\
+SC:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\Helpers\DatabaseTest.csutf-8v
+mC:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\ValidatorsTests\CreateEvaluationValidatorsTest.csutf-8v
+mC:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\ValidatorsTests\UpdateEvaluationValidatorsTest.csutf-8è
+ÉC:\Users\a\.nuget\packages\microsoft.net.test.sdk\16.10.0-release-20210422-02\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8Ü
+{C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8z
+oC:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Presentation.Tests.AssemblyInfo.csutf-8

@@ -251,8 +251,8 @@
               "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\Tests.Helpers\\Tests.Helpers.csproj": {
                 "projectPath": "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\Tests.Helpers\\Tests.Helpers.csproj"
               },
-              "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\WebApi\\WebApi.csproj": {
-                "projectPath": "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\WebApi\\WebApi.csproj"
+              "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\WebAPI\\WebAPI.csproj": {
+                "projectPath": "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\WebAPI\\WebAPI.csproj"
               }
             }
           }

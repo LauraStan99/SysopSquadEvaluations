@@ -293,7 +293,6 @@ C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\bin\Debug\net5.0\Web
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\bin\Debug\net5.0\Application.pdb
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\bin\Debug\net5.0\Domain.pdb
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\bin\Debug\net5.0\Persistence.pdb
-C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Presentation.Tests.csprojAssemblyReference.cache
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Presentation.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Presentation.Tests.AssemblyInfoInputs.cache
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Presentation.Tests.AssemblyInfo.cs
@@ -303,3 +302,4 @@ C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Pre
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\ref\Presentation.Tests.dll
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Presentation.Tests.pdb
 C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Presentation.Tests.genruntimeconfig.cache
+C:\Fac\SysopSquadEvaluations\Evaluations\Presentation.Tests\obj\Debug\net5.0\Presentation.Tests.csproj.AssemblyReference.cache

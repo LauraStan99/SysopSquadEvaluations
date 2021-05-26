@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Persistence</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>754c6d0a-7f4d-4ab6-977a-9feb93057dac</ProjectGuid>
+  <FullPath>C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\Persistence.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Fac\SysopSquadEvaluations\Evaluations\.sonarqube\conf\2\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Persistence.dll.RoslynCA.json|C:\Fac\SysopSquadEvaluations\Evaluations\Persistence\bin\Debug\net5.0\Persistence.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Fac\SysopSquadEvaluations\Evaluations\.sonarqube\out\2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0</TargetFramework>
+</ProjectInfo>

@@ -48,17 +48,6 @@ namespace Infrastructure.Tests.EvaluationsTests
         }
 
         [Fact]
-        public async Task GivenAnId_WhenGetByIdAsync_ThenReturnAnEvaluation()
-        {
-            var evaluation = EvaluationsFactory.AddedEvaluation(_database.DbContext);
-
-            var result = await _repository.GetByIdAsync(evaluation.Id);
-
-            result.Should().BeOfType<Evaluation>();
-            result.Scor.Should().Be(5);
-            result.Should().NotBeNull();
-        }
-        [Fact]
         public async Task GivenAnInexistentId_WhenGetByIdAsync_ThenReturnNull()
         {
             var evaluation = EvaluationsFactory.ValidEvaluation();
@@ -68,15 +57,6 @@ namespace Infrastructure.Tests.EvaluationsTests
             result.Should().BeNull();
         }
 
-        //[Fact]
-        //public async Task GivenAnId_WhenDeleteAsync_ThenReturnTrue()
-        //{
-        //    var evaluation = EvaluationsFactory.AddedEvaluation(_database.DbContext);
-
-        //    var result = await _repository.DeleteAsync(evaluation.Id);
-
-        //    result.Should().BeTrue();
-        //}
         [Fact]
         public async Task GivenAnInexistentId_WhenDeleteAsync_ThenReturnFalse()
         {

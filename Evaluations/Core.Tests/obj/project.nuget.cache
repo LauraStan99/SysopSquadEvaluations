@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yGeCOTyKTTHImN9jUHx91nY62JsLa+jbGDNowP+WKEjlpDl8zyVT0MPSIoThiWEphvfOGs67fS83YVWc/zAkxA==",
+  "dgSpecHash": "z+U8HKzKDPx7VanoSYba7M7KqAukJGipivSVl61PVvtXrYfXVDBSUsHt8UN5r5pQRV2JMLzNgbBl1j2KYBG9mg==",
   "success": true,
   "projectFilePath": "C:\\Fac\\SysopSquadEvaluations\\Evaluations\\Core.Tests\\Core.Tests.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\a\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\a\\.nuget\\packages\\coverlet.msbuild\\3.0.3\\coverlet.msbuild.3.0.3.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\fluentassertions\\6.0.0-alpha0002\\fluentassertions.6.0.0-alpha0002.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
